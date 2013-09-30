@@ -11,7 +11,6 @@ requires = [
     'pyramid',
     'zope.interface',
     'pyScss>=1.1.5',
-    'PIL',
 ]
 
 setup(
